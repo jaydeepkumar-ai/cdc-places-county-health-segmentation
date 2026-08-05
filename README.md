@@ -4,7 +4,6 @@
 [Open Interactive Dashboard](https://analytics.zoho.com/open-view/3253713000000010211)
 An interactive healthcare analytics project using CDC PLACES 2025 data to group U.S. counties into three pulmonary-health priority tiers.
 
-[View the Interactive Zoho Analytics Dashboard](https://analytics.zoho.com/open-view/3253713000000010211)
 
 ![Dashboard Overview](docs/assets/dashboard_overview.png)
 
